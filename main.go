@@ -7,5 +7,5 @@ func main() {
 
 	fmt.Println("feature2 commit3")
 
-	fmt.Println("feature3 commit1")
+	fmt.Println("feature3 commit3")
 }
